@@ -1,4 +1,3 @@
-#practice_player.py
 class Test_Player():
     while True:
 
