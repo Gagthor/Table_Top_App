@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"die",
+				"die_type\tstatement"
+			],
+			[
+				"roll",
+				"roll_1d20\tfunction"
+			],
+			[
+				"playe",
+				"player_skills"
+			],
+			[
+				"play",
+				"player_skills"
+			],
+			[
+				"skill",
+				"skill_value\tstatement"
+			],
+			[
+				"str",
+				"str_bonus\tstatement"
+			],
+			[
+				"player",
+				"player_skills_bonus"
+			],
+			[
+				"Roque_S",
+				"Roque_stats_bonus"
+			],
+			[
+				"roq",
+				"Roque_stats_bonus\tstatement"
+			],
+			[
+				"Int",
+				"Int"
+			],
+			[
+				"ali",
+				"alien_0"
+			],
+			[
+				"al",
+				"alien_0"
+			],
+			[
+				"alie",
+				"alien_0\tstatement"
+			],
+			[
+				"ano",
+				"another_number\tstatement"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"in",
+				"_inst\tstatement"
+			],
+			[
+				"zone",
+				"zones\tstatement"
+			],
+			[
+				"poop",
+				"poopface\tfunction"
+			],
+			[
+				"Ali",
+				"Aliciaisapoop\tstatement"
+			],
+			[
+				"v",
+				"voting"
+			],
+			[
+				"can",
+				"can_i_go_home\tparam"
+			],
+			[
+				"wh",
+				"when_will_it_end\tclass"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"e",
+				"enemy\tparam"
+			],
+			[
+				"class",
+				"class\tNew Class"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"get",
+				"get_quality"
+			],
+			[
+				"Com",
+				"Combat"
+			],
+			[
+				"C",
+				"Combat"
+			],
+			[
+				"atta",
+				"attack_roll"
+			],
+			[
+				"els",
+				"elsif\telsif ..."
+			],
+			[
+				"attack",
+				"attack_accuracy"
+			],
+			[
+				"dic",
+				"dice_roll"
+			],
+			[
+				"attac",
+				"attack_accuracy"
+			],
+			[
+				"ran",
+				"rand"
+			],
+			[
+				"MESSAG",
+				"MESSAGE"
+			],
+			[
+				"tw",
+				"towards"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"move",
+				"move_entity_north"
+			],
+			[
+				"print",
+				"print_status"
+			],
+			[
+				"x",
+				"x_coord"
+			],
+			[
+				"Dir",
+				"Dir\tDir[\"..\"]"
+			],
+			[
+				"Wor",
+				"WORLD_WIDTH"
+			],
+			[
+				"WORL",
+				"WORLD_HEIGHT"
+			],
+			[
+				"y",
+				"y_coord"
+			],
+			[
+				"WORLD",
+				"WORLD_WIDTH"
+			],
+			[
+				"att",
+				"attack_power"
+			],
+			[
+				"h",
+				"hit_points"
+			],
+			[
+				"step",
+				"steps_taken"
+			],
+			[
+				"ste",
+				"step_to_take"
+			],
+			[
+				"steps_",
+				"steps_to_take"
+			],
+			[
+				"wass",
+				"say_wassup"
+			],
+			[
+				"sa",
+				"say_bye"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"say",
+				"say_hi"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/practice_player.py",
+			"settings":
+			{
+				"buffer_size": 5000,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/scratch_paper.py",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/Chapter 5/Chapter_5.py",
+			"settings":
+			{
+				"buffer_size": 3777,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 462.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"in",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 984.0
+	},
+	"console":
+	{
+		"height": 329.0,
+		"history":
+		[
+			"Puts \"Hello World\"",
+			"puts Hello Wolrd",
+			"irb"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Gage's Surface Book/Desktop/Coding/The App",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/The App/Assets"
+	],
+	"file_history":
+	[
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/Chapter 5/5.1_5.2_Conditional_Tests.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/Chapter 5/chapter 5.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/banned_users.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/parrot.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/magic_number.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/toppings.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/cars.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/practice.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/bicycles.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Game/items.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/comment.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/birthday.py",
+		"/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/apostrophe.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/PythonPractice/practice.py",
+		"/C/Users/Gage's Surface Book/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/items.py",
+		"/C/Users/Gage's Surface Book/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Gage's Surface Book/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Gage's Surface Book/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/world.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/tiles.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/enemies.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/__init__.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python Game/Python_Game.sublime-project",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python_practice.py",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Arena_Fighter.rb",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Choose_Your_Own_Adventure.rb",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Animal_Hit_List.rb",
+		"/C/Users/Gage's Surface Book/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Ruby_Practice.rb",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Python_Practice",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Practice.rb",
+		"/C/Users/Gage's Surface Book/Desktop/Everything/Coding/Practice"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"roll_1d20",
+			"roll_d20",
+			"roll",
+			"Itelligence",
+			"Intellegence",
+			"Itelligence",
+			"Wisdom",
+			"Constitution",
+			"Dexterity",
+			"str",
+			"player_stats",
+			"roque"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/practice_player.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/scratch_paper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								86
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Gage's Surface Book/Desktop/Coding/Python-Practice/Assets/Chapter 5/Chapter_5.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1754,
+								1754
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1781.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "the_app.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
