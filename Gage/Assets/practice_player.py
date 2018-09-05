@@ -2,9 +2,9 @@ class Test_Player():
     
     #Makes the program run until stopped
     while True:
-        print("\n---Options---")
+        print("\n\n\n\n---Options---")
         print("Enter 'player' to show the player menu")
-        print("Enter 'roll' to roll some dice")
+        print("Enter 'roll' to roll some dice\n\n\n\n")
            
         #dice rolling command
         def roll_dice():    
@@ -13,7 +13,7 @@ class Test_Player():
                 import random #for random int
                 import time #for sleep function
 
-                die_number = int(input("\nHow many die?: "))
+                die_number = int(input("\n\n\n\nHow many die?: "))
                 die_type = int(input("How many sides on the die?: " + str(die_number) + "d"))
 
                 min = 1
@@ -25,7 +25,6 @@ class Test_Player():
                 print('Rolling the die...')
                 time.sleep(1)
                 print('\nYou rolled a ' + str(roll))
-                continue_input = input("\nPress 'Enter' to continue")
 
                 #if its a 1d20 roll then allow for critical hit/fail
                 if die_number == int(1):
@@ -35,13 +34,12 @@ class Test_Player():
                         elif roll == min:
                             print('Critical fail!')
 
+                continue_input = input("\nPress 'Enter' to continue")
+
                 #ask the user if they would like to roll again
-                print('\nRoll again?')
-                reroll_input = input("\n: ") 
+                reroll_input = input("\n\n\n\nRoll again?: ") 
                 if reroll_input == "yes":
-                    roll_dice()
-                elif reroll_input == "no":
-                    break
+                    continue
                 else:
                     break
 
@@ -63,7 +61,7 @@ class Test_Player():
             Charisma = (19)
 
             while True:
-                print("\n---Player Options---")
+                print("\n\n\n\n---Player Options---")
                 print("Enter 'create' to reroll charcter")
                 print("Enter 'stats' to view stats\n")
 
@@ -81,11 +79,11 @@ class Test_Player():
                 #show stats using charcter creation info
                 elif player_menu_input == ('stats'):
 
-                    print("\n---Stats---")
+                    print("\n\n\n\n---Stats---")
                     print('Name: ', name)
                     print('Race: ', race)
                     print('Age: ', age)
-                    print('\nClass: ', 'lvl',str(level),game_class,'\n')
+                    print('\nClass: ', 'lvl.'+ str(level),game_class,'\n')
 
                     if Strength <= (11):
                         print("Str: " + str(Strength) + " + 0")
@@ -171,14 +169,11 @@ class Test_Player():
                     break
 
         #main menu input commands
-        menu_input = input("\n: ")
+        main_menu_input = input("\n: ")
         
-        if menu_input == "player":
+        if main_menu_input == "player":
             player_menu()
-        elif menu_input == "roll":
+        elif main_menu_input == "roll":
             roll_dice()
-        elif menu_input == "quit":
+        elif main_menu_input == "quit":
             raise SystemExit
-
-        #Makes the program wait for input after printing the available options
-        user_input()
