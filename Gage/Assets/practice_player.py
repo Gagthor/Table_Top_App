@@ -1,6 +1,5 @@
 class Test_Player():
     
-    #Makes the program run until stopped
     while True:
         print("\n\n\n\n---Options---")
         print("Enter 'player' to show the player menu")
